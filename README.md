@@ -23,4 +23,15 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flcianat&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
